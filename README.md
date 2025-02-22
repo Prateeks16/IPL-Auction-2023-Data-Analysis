@@ -2,6 +2,8 @@
 
 📊 *Exploring spending trends, player distribution, and top auction buys using Python, Pandas, and Matplotlib!*  
 
+(I am new and this is my first kaggle project, so please leave your comments and guidance for me.)
+
 ---
 
 ## 📜 Project Overview
